@@ -125,8 +125,7 @@ def test():
         
         
         
-    
-    # client = RESTClient('RpovRC4_0dsV0iW9wOYVpXYImBqXsY7v')
+
     
     
     # print(client.list_aggs('AAPL', multiplier = 1,timespan = 'minute', from_ = '2000-01-01', to = '2024-02-01', limit = 50000))
